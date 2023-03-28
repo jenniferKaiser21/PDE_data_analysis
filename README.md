@@ -3,9 +3,10 @@ Data Analysis of PDE (Pennsylvania Department of Education) Datasets (2013 - 202
 <img src="https://github.com/jenniferKaiser21/PDE_data_analysis/blob/e69ab19f2010380bb562a32b19bd47cda1bf7c20/images/cell_19.png">
 
 Jennifer Kaiser 2023
-www.jenniferkaiser.tech
-www.linkedin.com/in/jenniferkaiser-tech
-www.github.com/jenniferkaiser21
+
+Http://www.jenniferkaiser.tech
+Http://www.linkedin.com/in/jenniferkaiser-tech
+Http://www.github.com/jenniferkaiser21
 
 Exploration of Pennsylvania Department of Education Data
 
